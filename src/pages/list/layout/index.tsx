@@ -120,7 +120,7 @@ const KuttyHero = () => {
             <Markdown file={readme} readme />
           </Box>
         )}
-        <Footer />
+        {/*<Footer />*/}
       </VStack>
     </Center>
   );
